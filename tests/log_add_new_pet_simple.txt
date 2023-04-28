@@ -1,0 +1,1551 @@
+
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:21.686186
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=733b09d3365a4e00b4e5312ad31cbeb7'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': '123', 'animal_type': '123', 'age': '1'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '216', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:22 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=733b09d3365a4e00b4e5312ad31cbeb7', 'Content-Length': '306'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:21.932654
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "1",
+    "animal_type": "123",
+    "created_at": "1673462902.3006926",
+    "id": "65608253-47bf-46c0-815c-71df2cd3624c",
+    "name": "123",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:22.156422
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=edc7e693c51b42a4b4a0c4738e6b2bce'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': '|\\/!@#$%^&*()-_=+`~?"№;:[]{}', 'animal_type': '123', 'age': '1'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '248', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:22 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=edc7e693c51b42a4b4a0c4738e6b2bce', 'Content-Length': '333'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:22.386958
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "1",
+    "animal_type": "123",
+    "created_at": "1673462902.7559447",
+    "id": "ce216d0b-3f59-4e30-9386-936665628999",
+    "name": "|\\/!@#$%^&*()-_=+`~?\"№;:[]{}",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:22.621311
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=358c5f6a445e4f14a4d5af285a865707'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': '的一是不了人我在有他这为之大来以个中上们', 'animal_type': '123', 'age': '1'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '333', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:23 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=358c5f6a445e4f14a4d5af285a865707', 'Content-Length': '363'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:22.856951
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "1",
+    "animal_type": "123",
+    "created_at": "1673462903.2242026",
+    "id": "b1d298f6-de80-4407-9780-c6b4f0437e3c",
+    "name": "的一是不了人我在有他这为之大来以个中上们",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:23.085830
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=11589b3926a94b29989bb1085e77f823'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': 'АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ', 'animal_type': '123', 'age': '1'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '411', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:23 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=11589b3926a94b29989bb1085e77f823', 'Content-Length': '369'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:23.324409
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "1",
+    "animal_type": "123",
+    "created_at": "1673462903.6935978",
+    "id": "b05f1761-7e9e-42ec-ba04-4aa529a93773",
+    "name": "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:23.558001
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=d1738cc395914def8446eca27caafefd'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': 'абвгдеёжзийклмнопрстуфхцчшщъыьэюя', 'animal_type': '123', 'age': '1'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '410', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:24 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=d1738cc395914def8446eca27caafefd', 'Content-Length': '369'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:23.799750
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "1",
+    "animal_type": "123",
+    "created_at": "1673462904.167674",
+    "id": "9d89fcb0-ab20-4bce-be1e-a61cabfc7ee2",
+    "name": "абвгдеёжзийклмнопрстуфхцчшщъыьэюя",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:24.030795
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=813dc9237ecf4387b72bd020c820859d'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx', 'animal_type': '123', 'age': '1'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '1214', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:24 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=813dc9237ecf4387b72bd020c820859d', 'Content-Length': '1304'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:24.273339
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "1",
+    "animal_type": "123",
+    "created_at": "1673462904.6416898",
+    "id": "537dbee0-862d-4798-a362-3ab8d5513ad8",
+    "name": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:24.503143
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=70f795810bad4c99bdb7c5e57c8b5bdb'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx', 'animal_type': '123', 'age': '1'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '468', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:25 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=70f795810bad4c99bdb7c5e57c8b5bdb', 'Content-Length': '558'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:24.743336
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "1",
+    "animal_type": "123",
+    "created_at": "1673462905.1118848",
+    "id": "baa43934-b989-4d42-96d2-39df6c6faeb2",
+    "name": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:24.962518
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=a0837a1b25b1468884a3f76c0ff7661e'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': '123', 'animal_type': '|\\/!@#$%^&*()-_=+`~?"№;:[]{}', 'age': '1'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '247', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:25 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=a0837a1b25b1468884a3f76c0ff7661e', 'Content-Length': '333'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:25.207947
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "1",
+    "animal_type": "|\\/!@#$%^&*()-_=+`~?\"№;:[]{}",
+    "created_at": "1673462905.576221",
+    "id": "54cef150-ab61-4340-8334-da9d2adb85db",
+    "name": "123",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:25.431153
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=d10f7920da0749c7bbb3e595916b9ca0'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': '|\\/!@#$%^&*()-_=+`~?"№;:[]{}', 'animal_type': '|\\/!@#$%^&*()-_=+`~?"№;:[]{}', 'age': '1'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '280', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:26 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=d10f7920da0749c7bbb3e595916b9ca0', 'Content-Length': '360'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:25.656212
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "1",
+    "animal_type": "|\\/!@#$%^&*()-_=+`~?\"№;:[]{}",
+    "created_at": "1673462906.0294693",
+    "id": "79266f00-f01e-4814-a4c6-1b7a5053a9c5",
+    "name": "|\\/!@#$%^&*()-_=+`~?\"№;:[]{}",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:25.874917
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=aa469e0721884366b8a11ab0f5ede317'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': '的一是不了人我在有他这为之大来以个中上们', 'animal_type': '|\\/!@#$%^&*()-_=+`~?"№;:[]{}', 'age': '1'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '365', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:26 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=aa469e0721884366b8a11ab0f5ede317', 'Content-Length': '390'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:26.102868
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "1",
+    "animal_type": "|\\/!@#$%^&*()-_=+`~?\"№;:[]{}",
+    "created_at": "1673462906.4732919",
+    "id": "436d8651-0a13-4afd-a516-dc76ea664e06",
+    "name": "的一是不了人我在有他这为之大来以个中上们",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:26.330228
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=3db7390cb6344c8694d50379c07cb1b4'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': 'АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ', 'animal_type': '|\\/!@#$%^&*()-_=+`~?"№;:[]{}', 'age': '1'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '443', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:26 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=3db7390cb6344c8694d50379c07cb1b4', 'Content-Length': '396'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:26.573054
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "1",
+    "animal_type": "|\\/!@#$%^&*()-_=+`~?\"№;:[]{}",
+    "created_at": "1673462906.9380543",
+    "id": "e7e1b887-f277-4eb7-bb20-202ee602ab00",
+    "name": "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:26.809042
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=7b139be6bb9141bf9ef4f7bf31b92331'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': 'абвгдеёжзийклмнопрстуфхцчшщъыьэюя', 'animal_type': '|\\/!@#$%^&*()-_=+`~?"№;:[]{}', 'age': '1'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '442', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:27 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=7b139be6bb9141bf9ef4f7bf31b92331', 'Content-Length': '396'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:27.054010
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "1",
+    "animal_type": "|\\/!@#$%^&*()-_=+`~?\"№;:[]{}",
+    "created_at": "1673462907.422179",
+    "id": "0e8c0486-16ae-4dcc-96a3-9dac76c01e6a",
+    "name": "абвгдеёжзийклмнопрстуфхцчшщъыьэюя",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:27.289134
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=7b0ca9c4c26a4ad3aec9837c38fd74d1'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx', 'animal_type': '|\\/!@#$%^&*()-_=+`~?"№;:[]{}', 'age': '1'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '1246', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:27 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=7b0ca9c4c26a4ad3aec9837c38fd74d1', 'Content-Length': '1331'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:27.527447
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "1",
+    "animal_type": "|\\/!@#$%^&*()-_=+`~?\"№;:[]{}",
+    "created_at": "1673462907.8970358",
+    "id": "a84e2751-e422-4a2b-bb0c-5e047cbb2987",
+    "name": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:27.749728
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=76d8a28344054dd8a6489e26d6a7caa7'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx', 'animal_type': '|\\/!@#$%^&*()-_=+`~?"№;:[]{}', 'age': '1'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '500', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:28 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=76d8a28344054dd8a6489e26d6a7caa7', 'Content-Length': '585'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:27.997804
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "1",
+    "animal_type": "|\\/!@#$%^&*()-_=+`~?\"№;:[]{}",
+    "created_at": "1673462908.3643525",
+    "id": "eeac9068-80b2-413b-b918-76be150d68ce",
+    "name": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:28.232934
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=bd1e41dafafd4e88ad7ca02fe834e623'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': '123', 'animal_type': '的一是不了人我在有他这为之大来以个中上们', 'age': '1'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '333', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:28 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=bd1e41dafafd4e88ad7ca02fe834e623', 'Content-Length': '363'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:28.473497
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "1",
+    "animal_type": "的一是不了人我在有他这为之大来以个中上们",
+    "created_at": "1673462908.8418665",
+    "id": "74a9f098-8a6c-468f-bcd7-bdbcc6370eee",
+    "name": "123",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:28.716997
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=100abca3b1484f588c0688e2fd042f1f'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': '|\\/!@#$%^&*()-_=+`~?"№;:[]{}', 'animal_type': '的一是不了人我在有他这为之大来以个中上们', 'age': '1'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '364', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:29 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=100abca3b1484f588c0688e2fd042f1f', 'Content-Length': '390'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:28.958315
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "1",
+    "animal_type": "的一是不了人我在有他这为之大来以个中上们",
+    "created_at": "1673462909.326602",
+    "id": "438a06f0-8f87-4ec0-8fde-dc0ba2fed057",
+    "name": "|\\/!@#$%^&*()-_=+`~?\"№;:[]{}",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:29.189759
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=a8b7252ae7e64f2c86f9f8edceb55187'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': '的一是不了人我在有他这为之大来以个中上们', 'animal_type': '的一是不了人我在有他这为之大来以个中上们', 'age': '1'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '450', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:29 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=a8b7252ae7e64f2c86f9f8edceb55187', 'Content-Length': '420'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:29.420951
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "1",
+    "animal_type": "的一是不了人我在有他这为之大来以个中上们",
+    "created_at": "1673462909.7931607",
+    "id": "2513d9f8-4af3-4473-aef4-fcde27e7fccc",
+    "name": "的一是不了人我在有他这为之大来以个中上们",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:29.639585
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=e9500cd9969d485aa8676d78b3d91d82'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': 'АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ', 'animal_type': '的一是不了人我在有他这为之大来以个中上们', 'age': '1'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '528', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:30 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=e9500cd9969d485aa8676d78b3d91d82', 'Content-Length': '426'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:29.873689
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "1",
+    "animal_type": "的一是不了人我在有他这为之大来以个中上们",
+    "created_at": "1673462910.2437623",
+    "id": "e8572e3d-fc0b-462c-869d-dc5489e91423",
+    "name": "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:30.095456
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=621e9a87989747b58d3a990e5873b06f'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': 'абвгдеёжзийклмнопрстуфхцчшщъыьэюя', 'animal_type': '的一是不了人我在有他这为之大来以个中上们', 'age': '1'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '528', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:30 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=621e9a87989747b58d3a990e5873b06f', 'Content-Length': '426'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:30.329503
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "1",
+    "animal_type": "的一是不了人我在有他这为之大来以个中上们",
+    "created_at": "1673462910.7001815",
+    "id": "1b2719e2-d3d1-41bc-bb75-948e561b097b",
+    "name": "абвгдеёжзийклмнопрстуфхцчшщъыьэюя",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:30.552224
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=4b9aa69d0ac349c793308a2988fc223e'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx', 'animal_type': '的一是不了人我在有他这为之大来以个中上们', 'age': '1'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '1331', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:31 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=4b9aa69d0ac349c793308a2988fc223e', 'Content-Length': '1361'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:30.786149
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "1",
+    "animal_type": "的一是不了人我在有他这为之大来以个中上们",
+    "created_at": "1673462911.1566312",
+    "id": "4538cd03-ba21-478e-904d-15ef323cf408",
+    "name": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:31.009909
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=2fcb68fc93d246f6abac6c00b093cda0'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx', 'animal_type': '的一是不了人我在有他这为之大来以个中上们', 'age': '1'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '583', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:31 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=2fcb68fc93d246f6abac6c00b093cda0', 'Content-Length': '615'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:31.252779
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "1",
+    "animal_type": "的一是不了人我在有他这为之大来以个中上们",
+    "created_at": "1673462911.62138",
+    "id": "11a7ff74-e439-4289-967a-48432c8fb388",
+    "name": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:31.486908
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=c60ddc5651a5436ab0fdd7c4be9e1a18'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': '123', 'animal_type': 'АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ', 'age': '1'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '411', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:32 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=c60ddc5651a5436ab0fdd7c4be9e1a18', 'Content-Length': '369'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:31.725747
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "1",
+    "animal_type": "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ",
+    "created_at": "1673462912.0967681",
+    "id": "50435c12-7068-417a-8184-0568b3354c95",
+    "name": "123",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:31.960330
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=54d8ed4e5cbf46a6887f20f5d5db7f76'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': '|\\/!@#$%^&*()-_=+`~?"№;:[]{}', 'animal_type': 'АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ', 'age': '1'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '443', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:32 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=54d8ed4e5cbf46a6887f20f5d5db7f76', 'Content-Length': '396'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:32.203608
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "1",
+    "animal_type": "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ",
+    "created_at": "1673462912.5716395",
+    "id": "85fd7c73-b914-47fd-a3ad-5fe81c7cc7d4",
+    "name": "|\\/!@#$%^&*()-_=+`~?\"№;:[]{}",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:32.429375
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=8fd4fab9a4f44cf5af44968c6790e1ac'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': '的一是不了人我在有他这为之大来以个中上们', 'animal_type': 'АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ', 'age': '1'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '527', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:33 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=8fd4fab9a4f44cf5af44968c6790e1ac', 'Content-Length': '426'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:32.668595
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "1",
+    "animal_type": "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ",
+    "created_at": "1673462913.037664",
+    "id": "cea5c64e-77ba-4609-bf02-9c6953bdd689",
+    "name": "的一是不了人我在有他这为之大来以个中上们",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:32.892458
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=5b1371ea22db41a0bfe909de685ca95a'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': 'АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ', 'animal_type': 'АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ', 'age': '1'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '606', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:33 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=5b1371ea22db41a0bfe909de685ca95a', 'Content-Length': '432'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:33.139999
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "1",
+    "animal_type": "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ",
+    "created_at": "1673462913.5056195",
+    "id": "b2a673d7-cfe3-41f8-89f3-55af8c0b0489",
+    "name": "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:33.366063
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=83f5324847744f31b1e5930a86ff2b04'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': 'абвгдеёжзийклмнопрстуфхцчшщъыьэюя', 'animal_type': 'АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ', 'age': '1'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '605', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:33 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=83f5324847744f31b1e5930a86ff2b04', 'Content-Length': '432'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:33.606561
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "1",
+    "animal_type": "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ",
+    "created_at": "1673462913.972526",
+    "id": "2809fce0-fc3a-4590-8710-4a211d23191a",
+    "name": "абвгдеёжзийклмнопрстуфхцчшщъыьэюя",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:33.828773
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=56492bbf124a4cc0a0553a2079a8e48b'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx', 'animal_type': 'АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ', 'age': '1'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '1409', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:34 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=56492bbf124a4cc0a0553a2079a8e48b', 'Content-Length': '1367'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:34.072065
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "1",
+    "animal_type": "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ",
+    "created_at": "1673462914.4412024",
+    "id": "8ef81c55-6828-4f3d-a273-c62027fd7b70",
+    "name": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:34.300654
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=64b7bff6f7d54a5792e625b090214c48'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx', 'animal_type': 'АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ', 'age': '1'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '663', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:34 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=64b7bff6f7d54a5792e625b090214c48', 'Content-Length': '621'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:34.536838
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "1",
+    "animal_type": "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ",
+    "created_at": "1673462914.9039404",
+    "id": "da664de0-f40b-4d33-b00f-77245ff4d0d4",
+    "name": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:34.767059
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=e83a19b96b594ed09f713d005dc63299'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': '123', 'animal_type': 'абвгдеёжзийклмнопрстуфхцчшщъыьэюя', 'age': '1'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '411', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:35 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=e83a19b96b594ed09f713d005dc63299', 'Content-Length': '369'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:35.010062
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "1",
+    "animal_type": "абвгдеёжзийклмнопрстуфхцчшщъыьэюя",
+    "created_at": "1673462915.3790307",
+    "id": "f03b30f8-4bef-4290-bb1a-32decb9a3952",
+    "name": "123",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:35.237022
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=a1a79ff8359445f1af1eda7b41679e93'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': '|\\/!@#$%^&*()-_=+`~?"№;:[]{}', 'animal_type': 'абвгдеёжзийклмнопрстуфхцчшщъыьэюя', 'age': '1'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '443', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:35 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=a1a79ff8359445f1af1eda7b41679e93', 'Content-Length': '396'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:35.472507
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "1",
+    "animal_type": "абвгдеёжзийклмнопрстуфхцчшщъыьэюя",
+    "created_at": "1673462915.8417451",
+    "id": "37bbf597-0f67-4633-ae22-7144ae828de5",
+    "name": "|\\/!@#$%^&*()-_=+`~?\"№;:[]{}",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:35.710891
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=fb6b7b790455464ab1ced2f59b2fbc96'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': '的一是不了人我在有他这为之大来以个中上们', 'animal_type': 'абвгдеёжзийклмнопрстуфхцчшщъыьэюя', 'age': '1'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '527', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:36 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=fb6b7b790455464ab1ced2f59b2fbc96', 'Content-Length': '426'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:35.950468
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "1",
+    "animal_type": "абвгдеёжзийклмнопрстуфхцчшщъыьэюя",
+    "created_at": "1673462916.322301",
+    "id": "0f365d4b-5919-41cf-bc5e-294c12afc8d7",
+    "name": "的一是不了人我在有他这为之大来以个中上们",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:36.185515
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=fc7f0e941f3648c888379d00f08200f0'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': 'АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ', 'animal_type': 'абвгдеёжзийклмнопрстуфхцчшщъыьэюя', 'age': '1'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '606', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:36 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=fc7f0e941f3648c888379d00f08200f0', 'Content-Length': '432'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:36.431802
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "1",
+    "animal_type": "абвгдеёжзийклмнопрстуфхцчшщъыьэюя",
+    "created_at": "1673462916.8001106",
+    "id": "e1553f73-3a92-4883-871d-1fd63f41b2ff",
+    "name": "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:36.670312
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=bde93575affc404086f78702e7fe0c66'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': 'абвгдеёжзийклмнопрстуфхцчшщъыьэюя', 'animal_type': 'абвгдеёжзийклмнопрстуфхцчшщъыьэюя', 'age': '1'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '606', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:37 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=bde93575affc404086f78702e7fe0c66', 'Content-Length': '432'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:36.912546
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "1",
+    "animal_type": "абвгдеёжзийклмнопрстуфхцчшщъыьэюя",
+    "created_at": "1673462917.2813044",
+    "id": "97fa237e-fff9-4700-812d-40260c302c0d",
+    "name": "абвгдеёжзийклмнопрстуфхцчшщъыьэюя",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:37.144706
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=1deefaf60cd64c1db8c0cb79161a88d6'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx', 'animal_type': 'абвгдеёжзийклмнопрстуфхцчшщъыьэюя', 'age': '1'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '1409', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:37 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=1deefaf60cd64c1db8c0cb79161a88d6', 'Content-Length': '1367'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:37.399885
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "1",
+    "animal_type": "абвгдеёжзийклмнопрстуфхцчшщъыьэюя",
+    "created_at": "1673462917.7682137",
+    "id": "8776ffe3-a645-4934-afb0-6306a79a7c8a",
+    "name": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:37.627875
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=61dd0e3bde544c0290fc5c02d6ac0658'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx', 'animal_type': 'абвгдеёжзийклмнопрстуфхцчшщъыьэюя', 'age': '1'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '663', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:38 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=61dd0e3bde544c0290fc5c02d6ac0658', 'Content-Length': '621'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:37.861385
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "1",
+    "animal_type": "абвгдеёжзийклмнопрстуфхцчшщъыьэюя",
+    "created_at": "1673462918.2303643",
+    "id": "151bea5b-eb9f-4abf-b3f4-3ec10c370e54",
+    "name": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:38.096555
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=212d1be458874846aeb02138ec328736'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': '123', 'animal_type': 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx', 'age': '1'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '1214', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:38 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=212d1be458874846aeb02138ec328736', 'Content-Length': '1304'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:38.345115
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "1",
+    "animal_type": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "created_at": "1673462918.7146182",
+    "id": "dd4325c7-a20a-4798-b6ef-cde72b693a70",
+    "name": "123",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:38.569265
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=94aa197442d14692b14bcb234aedcccf'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': '|\\/!@#$%^&*()-_=+`~?"№;:[]{}', 'animal_type': 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx', 'age': '1'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '1245', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:39 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=94aa197442d14692b14bcb234aedcccf', 'Content-Length': '1331'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:38.812761
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "1",
+    "animal_type": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "created_at": "1673462919.181501",
+    "id": "1ead169c-f277-4526-bb16-8dab0eb4a723",
+    "name": "|\\/!@#$%^&*()-_=+`~?\"№;:[]{}",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:39.040965
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=db6ff0e40517411e923cd46303867e2d'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': '的一是不了人我在有他这为之大来以个中上们', 'animal_type': 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx', 'age': '1'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '1331', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:39 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=db6ff0e40517411e923cd46303867e2d', 'Content-Length': '1361'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:39.285339
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "1",
+    "animal_type": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "created_at": "1673462919.6531682",
+    "id": "c36d09dc-fe01-4a60-ac46-a4d7ffe57594",
+    "name": "的一是不了人我在有他这为之大来以个中上们",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:39.516310
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=7b97c67e865e429cbb3402da61889025'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': 'АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ', 'animal_type': 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx', 'age': '1'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '1409', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:40 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=7b97c67e865e429cbb3402da61889025', 'Content-Length': '1367'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:39.779693
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "1",
+    "animal_type": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "created_at": "1673462920.1469154",
+    "id": "677c597c-e6d1-41b5-921d-92f731ea55d1",
+    "name": "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:40.005076
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=67ef72b31e9a412c9773b808c120cf40'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': 'абвгдеёжзийклмнопрстуфхцчшщъыьэюя', 'animal_type': 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx', 'age': '1'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '1408', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:40 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=67ef72b31e9a412c9773b808c120cf40', 'Content-Length': '1367'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:40.247635
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "1",
+    "animal_type": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "created_at": "1673462920.615538",
+    "id": "e5372d40-f47a-4b6c-bef7-2cd1718759c6",
+    "name": "абвгдеёжзийклмнопрстуфхцчшщъыьэюя",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:40.475348
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=242b085583aa47ab9c9a7a0f9e1500e1'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx', 'animal_type': 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx', 'age': '1'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '2212', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:41 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=242b085583aa47ab9c9a7a0f9e1500e1', 'Content-Length': '2302'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:40.711194
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "1",
+    "animal_type": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "created_at": "1673462921.0792603",
+    "id": "fc69f9e9-78f3-4929-88f5-04060e04452f",
+    "name": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:40.942154
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=ae05b1791e2848bc90e1ff6c30e514ea'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx', 'animal_type': 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx', 'age': '1'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '1465', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:41 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=ae05b1791e2848bc90e1ff6c30e514ea', 'Content-Length': '1556'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:41.186937
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "1",
+    "animal_type": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "created_at": "1673462921.555024",
+    "id": "4fd43305-5275-461c-98e7-9757eeb36f75",
+    "name": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:41.418236
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=61becbccf183427cbbeaf76761bb6327'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': '123', 'animal_type': 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx', 'age': '1'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '468', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:42 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=61becbccf183427cbbeaf76761bb6327', 'Content-Length': '558'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:41.658663
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "1",
+    "animal_type": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "created_at": "1673462922.0231922",
+    "id": "fb4c7762-1462-4ba1-b15a-7e85997354ed",
+    "name": "123",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:41.886994
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=b9b02d9f024f4b6a807fa22abe4e6a90'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': '|\\/!@#$%^&*()-_=+`~?"№;:[]{}', 'animal_type': 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx', 'age': '1'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '500', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:42 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=b9b02d9f024f4b6a807fa22abe4e6a90', 'Content-Length': '585'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:42.138077
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "1",
+    "animal_type": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "created_at": "1673462922.5041516",
+    "id": "fd86efc3-eb62-49fb-b52a-d611ef89a7ea",
+    "name": "|\\/!@#$%^&*()-_=+`~?\"№;:[]{}",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:42.357648
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=b0895cdb9fe544c6bb987df3bd5e7134'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': '的一是不了人我在有他这为之大来以个中上们', 'animal_type': 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx', 'age': '1'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '585', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:42 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=b0895cdb9fe544c6bb987df3bd5e7134', 'Content-Length': '615'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:42.603680
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "1",
+    "animal_type": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "created_at": "1673462922.9677968",
+    "id": "51c14c12-c14f-4e3f-aead-9c31bce6e0e9",
+    "name": "的一是不了人我在有他这为之大来以个中上们",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:42.827213
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=df9a878784f641598922684b2773b88b'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': 'АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ', 'animal_type': 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx', 'age': '1'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '663', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:43 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=df9a878784f641598922684b2773b88b', 'Content-Length': '621'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:43.063408
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "1",
+    "animal_type": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "created_at": "1673462923.4336722",
+    "id": "c78ebe41-362a-4197-aa00-02fd2a47d428",
+    "name": "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:43.290420
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=687a3857ed7640599d2dc74045117987'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': 'абвгдеёжзийклмнопрстуфхцчшщъыьэюя', 'animal_type': 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx', 'age': '1'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '662', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:43 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=687a3857ed7640599d2dc74045117987', 'Content-Length': '621'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:43.535370
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "1",
+    "animal_type": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "created_at": "1673462923.905018",
+    "id": "2ea94a13-2716-45b9-9d93-c81cf0ad674c",
+    "name": "абвгдеёжзийклмнопрстуфхцчшщъыьэюя",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:43.762757
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=6294462d1e6c41238df6f587e243d55c'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx', 'animal_type': 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx', 'age': '1'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '1465', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:44 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=6294462d1e6c41238df6f587e243d55c', 'Content-Length': '1556'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:44.003858
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "1",
+    "animal_type": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "created_at": "1673462924.371663",
+    "id": "ce339683-82f7-4f2f-a7a8-a50c0afe4bf9",
+    "name": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:44.232855
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=dee8c4c046eb404ba32ea751164e8df8'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx', 'animal_type': 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx', 'age': '1'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '720', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:44 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=dee8c4c046eb404ba32ea751164e8df8', 'Content-Length': '810'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:44.470361
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "1",
+    "animal_type": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "created_at": "1673462924.8378274",
+    "id": "91256f9c-1ef2-4bde-be65-199ca35bbcb6",
+    "name": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:46.363406
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=9317f7dc334e48d08243990785bd4ea4'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': 'Барсик', 'animal_type': 'кот', 'age': '6'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '264', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:46 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=9317f7dc334e48d08243990785bd4ea4', 'Content-Length': '318'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:46.596646
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "6",
+    "animal_type": "кот",
+    "created_at": "1673462926.9653637",
+    "id": "d1e26a5c-df1b-4c25-90a6-bbbfd696dcd8",
+    "name": "Барсик",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:52.108430
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=c2e116db58f646569f3ef0ee41b543c7'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': '', 'animal_type': '', 'age': '的一是不了人我在有他这为之大来以个中上们'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '329', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:52 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=c2e116db58f646569f3ef0ee41b543c7', 'Content-Length': '359'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:52.352535
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "的一是不了人我在有他这为之大来以个中上们",
+    "animal_type": "",
+    "created_at": "1673462932.7247705",
+    "id": "2a12b941-48e2-460c-8492-83fea930f502",
+    "name": "",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:52.626756
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=ad179df880d24a608c02827cd51ebf57'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': '', 'animal_type': '', 'age': 'АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '407', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:53 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=ad179df880d24a608c02827cd51ebf57', 'Content-Length': '365'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:52.867472
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ",
+    "animal_type": "",
+    "created_at": "1673462933.2379336",
+    "id": "4f841731-0f8b-4341-85c3-6001d2473758",
+    "name": "",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:53.095363
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=5022217393c141f3b2379b5a885f77f0'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': '', 'animal_type': '', 'age': 'абвгдеёжзийклмнопрстуфхцчшщъыьэюя'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '407', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:53 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=5022217393c141f3b2379b5a885f77f0', 'Content-Length': '365'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:53.343172
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "абвгдеёжзийклмнопрстуфхцчшщъыьэюя",
+    "animal_type": "",
+    "created_at": "1673462933.7068465",
+    "id": "461b59d6-4aca-403f-9bc7-5d87b03cb54e",
+    "name": "",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:53.583232
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=407283254bcc452c9b327f29c32ade63'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': '', 'animal_type': '', 'age': '|\\/!@#$%^&*()-_=+`~?"№;:[]{}'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '244', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:54 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=407283254bcc452c9b327f29c32ade63', 'Content-Length': '329'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:53.823853
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "|\\/!@#$%^&*()-_=+`~?\"№;:[]{}",
+    "animal_type": "",
+    "created_at": "1673462934.1915164",
+    "id": "fdf3bb71-34e7-434b-8635-5a2252f7be21",
+    "name": "",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:54.059455
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=141c3f74996a4f83aa2644497b1c4591'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': '', 'animal_type': '', 'age': '2147483648'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '219', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:54 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=141c3f74996a4f83aa2644497b1c4591', 'Content-Length': '309'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:54.298360
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "2147483648",
+    "animal_type": "",
+    "created_at": "1673462934.6674147",
+    "id": "b27f6355-4c33-46d8-87cf-89ec327e95fd",
+    "name": "",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:54.528849
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=14f9f23127c449e798777e0ad7e701b3'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': '', 'animal_type': '', 'age': '2147483647'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '218', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:55 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=14f9f23127c449e798777e0ad7e701b3', 'Content-Length': '309'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:54.765833
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "2147483647",
+    "animal_type": "",
+    "created_at": "1673462935.137262",
+    "id": "0ae7cd09-32b6-4b94-b12d-bd498bfe38b2",
+    "name": "",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:54.997671
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=0608001b8314421f93883389858f3171'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': '', 'animal_type': '', 'age': '1.5'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '212', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:55 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=0608001b8314421f93883389858f3171', 'Content-Length': '302'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:55.242035
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "1.5",
+    "animal_type": "",
+    "created_at": "1673462935.6099334",
+    "id": "a245b155-f599-41e6-b399-c9cd0a7961d7",
+    "name": "",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:55.476839
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=b996b513522b48fc99765886647202ff'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': '', 'animal_type': '', 'age': '100'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '212', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:56 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=b996b513522b48fc99765886647202ff', 'Content-Length': '302'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:55.716982
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "100",
+    "animal_type": "",
+    "created_at": "1673462936.0864942",
+    "id": "9e8215a6-251c-437f-8dce-10c4e203cfa2",
+    "name": "",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:55.961085
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=cae1d3a6cb1b429aacae164488fa6435'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': '', 'animal_type': '', 'age': '0'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '210', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:56 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=cae1d3a6cb1b429aacae164488fa6435', 'Content-Length': '300'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:56.199956
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "0",
+    "animal_type": "",
+    "created_at": "1673462936.5687544",
+    "id": "0e7476eb-56d1-431e-8bb4-abe6ebc70a5c",
+    "name": "",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:56.436851
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=3b5eaf7e84304722a566f2e896ccec5a'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': '', 'animal_type': '', 'age': '-1'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '211', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:57 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=3b5eaf7e84304722a566f2e896ccec5a', 'Content-Length': '301'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:56.666167
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "-1",
+    "animal_type": "",
+    "created_at": "1673462937.0355453",
+    "id": "a63a5899-b9c1-4ac5-b90e-2e948f9713eb",
+    "name": "",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-12 01:48:56.897043
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=f4a9b6ebd8b94b8b927a23a3b65dbbb8'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': '', 'animal_type': '', 'age': ''}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '208', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:48:57 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=f4a9b6ebd8b94b8b927a23a3b65dbbb8', 'Content-Length': '299'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:48:57.139447
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "",
+    "animal_type": "",
+    "created_at": "1673462937.505137",
+    "id": "19dccd69-56b4-4d99-b34b-6b7d3f6f1551",
+    "name": "",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: add_new_pet_simple
+Start time: 2023-01-13 14:43:34.870736
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=1d53a65930c545859cdb851128993689'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': 'Барсик', 'animal_type': 'кот', 'age': '6'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '263', 'Content-Type': 'application/json', 'Date': 'Fri, 13 Jan 2023 07:43:36 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data; boundary=1d53a65930c545859cdb851128993689', 'Content-Length': '318'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-13 14:43:35.112681
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "6",
+    "animal_type": "кот",
+    "created_at": "1673595816.166023",
+    "id": "5be51ab6-bb29-40d7-944c-73357072b5b7",
+    "name": "Барсик",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}

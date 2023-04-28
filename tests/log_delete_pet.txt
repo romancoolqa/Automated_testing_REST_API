@@ -1,0 +1,993 @@
+
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:35.447406
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: 19dccd69-56b4-4d99-b34b-6b7d3f6f1551
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:36 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/19dccd69-56b4-4d99-b34b-6b7d3f6f1551
+Path URL: /api/pets/19dccd69-56b4-4d99-b34b-6b7d3f6f1551
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:35.698496
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:35.698496
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: a63a5899-b9c1-4ac5-b90e-2e948f9713eb
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:36 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/a63a5899-b9c1-4ac5-b90e-2e948f9713eb
+Path URL: /api/pets/a63a5899-b9c1-4ac5-b90e-2e948f9713eb
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:35.973196
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:35.973196
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: 0e7476eb-56d1-431e-8bb4-abe6ebc70a5c
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:36 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/0e7476eb-56d1-431e-8bb4-abe6ebc70a5c
+Path URL: /api/pets/0e7476eb-56d1-431e-8bb4-abe6ebc70a5c
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:36.226671
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:36.226671
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: 9e8215a6-251c-437f-8dce-10c4e203cfa2
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:36 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/9e8215a6-251c-437f-8dce-10c4e203cfa2
+Path URL: /api/pets/9e8215a6-251c-437f-8dce-10c4e203cfa2
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:36.472005
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:36.472005
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: a245b155-f599-41e6-b399-c9cd0a7961d7
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:37 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/a245b155-f599-41e6-b399-c9cd0a7961d7
+Path URL: /api/pets/a245b155-f599-41e6-b399-c9cd0a7961d7
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:36.722727
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:36.722727
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: 0ae7cd09-32b6-4b94-b12d-bd498bfe38b2
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:37 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/0ae7cd09-32b6-4b94-b12d-bd498bfe38b2
+Path URL: /api/pets/0ae7cd09-32b6-4b94-b12d-bd498bfe38b2
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:36.979511
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:36.979511
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: b27f6355-4c33-46d8-87cf-89ec327e95fd
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:37 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/b27f6355-4c33-46d8-87cf-89ec327e95fd
+Path URL: /api/pets/b27f6355-4c33-46d8-87cf-89ec327e95fd
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:37.234235
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:37.235240
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: fdf3bb71-34e7-434b-8635-5a2252f7be21
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:37 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/fdf3bb71-34e7-434b-8635-5a2252f7be21
+Path URL: /api/pets/fdf3bb71-34e7-434b-8635-5a2252f7be21
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:37.494818
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:37.494818
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: 461b59d6-4aca-403f-9bc7-5d87b03cb54e
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:38 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/461b59d6-4aca-403f-9bc7-5d87b03cb54e
+Path URL: /api/pets/461b59d6-4aca-403f-9bc7-5d87b03cb54e
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:37.744213
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:37.744213
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: 4f841731-0f8b-4341-85c3-6001d2473758
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:38 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/4f841731-0f8b-4341-85c3-6001d2473758
+Path URL: /api/pets/4f841731-0f8b-4341-85c3-6001d2473758
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:38.000284
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:38.000284
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: 2a12b941-48e2-460c-8492-83fea930f502
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:38 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/2a12b941-48e2-460c-8492-83fea930f502
+Path URL: /api/pets/2a12b941-48e2-460c-8492-83fea930f502
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:38.278323
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:38.278323
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: d1e26a5c-df1b-4c25-90a6-bbbfd696dcd8
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:38 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/d1e26a5c-df1b-4c25-90a6-bbbfd696dcd8
+Path URL: /api/pets/d1e26a5c-df1b-4c25-90a6-bbbfd696dcd8
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:38.520763
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:38.520763
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: 987c6308-7469-4248-aac2-73376a3e4edf
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:39 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/987c6308-7469-4248-aac2-73376a3e4edf
+Path URL: /api/pets/987c6308-7469-4248-aac2-73376a3e4edf
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:38.768775
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:38.768775
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: 91256f9c-1ef2-4bde-be65-199ca35bbcb6
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:39 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/91256f9c-1ef2-4bde-be65-199ca35bbcb6
+Path URL: /api/pets/91256f9c-1ef2-4bde-be65-199ca35bbcb6
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:39.022064
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:39.022064
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: ce339683-82f7-4f2f-a7a8-a50c0afe4bf9
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:39 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/ce339683-82f7-4f2f-a7a8-a50c0afe4bf9
+Path URL: /api/pets/ce339683-82f7-4f2f-a7a8-a50c0afe4bf9
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:39.271408
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:39.271408
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: 2ea94a13-2716-45b9-9d93-c81cf0ad674c
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:39 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/2ea94a13-2716-45b9-9d93-c81cf0ad674c
+Path URL: /api/pets/2ea94a13-2716-45b9-9d93-c81cf0ad674c
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:39.529769
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:39.529769
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: c78ebe41-362a-4197-aa00-02fd2a47d428
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:40 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/c78ebe41-362a-4197-aa00-02fd2a47d428
+Path URL: /api/pets/c78ebe41-362a-4197-aa00-02fd2a47d428
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:39.770779
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:39.770779
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: 51c14c12-c14f-4e3f-aead-9c31bce6e0e9
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:40 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/51c14c12-c14f-4e3f-aead-9c31bce6e0e9
+Path URL: /api/pets/51c14c12-c14f-4e3f-aead-9c31bce6e0e9
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:40.023636
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:40.023636
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: fd86efc3-eb62-49fb-b52a-d611ef89a7ea
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:40 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/fd86efc3-eb62-49fb-b52a-d611ef89a7ea
+Path URL: /api/pets/fd86efc3-eb62-49fb-b52a-d611ef89a7ea
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:40.273332
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:40.273332
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: fb4c7762-1462-4ba1-b15a-7e85997354ed
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:40 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/fb4c7762-1462-4ba1-b15a-7e85997354ed
+Path URL: /api/pets/fb4c7762-1462-4ba1-b15a-7e85997354ed
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:40.526228
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:40.527227
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: 4fd43305-5275-461c-98e7-9757eeb36f75
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:41 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/4fd43305-5275-461c-98e7-9757eeb36f75
+Path URL: /api/pets/4fd43305-5275-461c-98e7-9757eeb36f75
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:40.784485
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:40.784485
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: fc69f9e9-78f3-4929-88f5-04060e04452f
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:41 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/fc69f9e9-78f3-4929-88f5-04060e04452f
+Path URL: /api/pets/fc69f9e9-78f3-4929-88f5-04060e04452f
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:41.063390
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:41.064302
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: e5372d40-f47a-4b6c-bef7-2cd1718759c6
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:41 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/e5372d40-f47a-4b6c-bef7-2cd1718759c6
+Path URL: /api/pets/e5372d40-f47a-4b6c-bef7-2cd1718759c6
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:41.323951
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:41.323951
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: 677c597c-e6d1-41b5-921d-92f731ea55d1
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:41 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/677c597c-e6d1-41b5-921d-92f731ea55d1
+Path URL: /api/pets/677c597c-e6d1-41b5-921d-92f731ea55d1
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:41.578065
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:41.578065
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: c36d09dc-fe01-4a60-ac46-a4d7ffe57594
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:42 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/c36d09dc-fe01-4a60-ac46-a4d7ffe57594
+Path URL: /api/pets/c36d09dc-fe01-4a60-ac46-a4d7ffe57594
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:41.834450
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:41.834450
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: 1ead169c-f277-4526-bb16-8dab0eb4a723
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:42 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/1ead169c-f277-4526-bb16-8dab0eb4a723
+Path URL: /api/pets/1ead169c-f277-4526-bb16-8dab0eb4a723
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:42.126514
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:42.126514
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: dd4325c7-a20a-4798-b6ef-cde72b693a70
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:42 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/dd4325c7-a20a-4798-b6ef-cde72b693a70
+Path URL: /api/pets/dd4325c7-a20a-4798-b6ef-cde72b693a70
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:42.363896
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:42.363896
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: 151bea5b-eb9f-4abf-b3f4-3ec10c370e54
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:43 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/151bea5b-eb9f-4abf-b3f4-3ec10c370e54
+Path URL: /api/pets/151bea5b-eb9f-4abf-b3f4-3ec10c370e54
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:42.627471
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:42.627471
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: 8776ffe3-a645-4934-afb0-6306a79a7c8a
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:43 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/8776ffe3-a645-4934-afb0-6306a79a7c8a
+Path URL: /api/pets/8776ffe3-a645-4934-afb0-6306a79a7c8a
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:42.872291
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:42.873323
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: 97fa237e-fff9-4700-812d-40260c302c0d
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:43 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/97fa237e-fff9-4700-812d-40260c302c0d
+Path URL: /api/pets/97fa237e-fff9-4700-812d-40260c302c0d
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:43.116404
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:43.116404
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: e1553f73-3a92-4883-871d-1fd63f41b2ff
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:43 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/e1553f73-3a92-4883-871d-1fd63f41b2ff
+Path URL: /api/pets/e1553f73-3a92-4883-871d-1fd63f41b2ff
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:43.375277
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:43.375277
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: 0f365d4b-5919-41cf-bc5e-294c12afc8d7
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:44 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/0f365d4b-5919-41cf-bc5e-294c12afc8d7
+Path URL: /api/pets/0f365d4b-5919-41cf-bc5e-294c12afc8d7
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:43.630702
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:43.631681
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: 37bbf597-0f67-4633-ae22-7144ae828de5
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:44 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/37bbf597-0f67-4633-ae22-7144ae828de5
+Path URL: /api/pets/37bbf597-0f67-4633-ae22-7144ae828de5
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:43.894835
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:43.894835
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: f03b30f8-4bef-4290-bb1a-32decb9a3952
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:44 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/f03b30f8-4bef-4290-bb1a-32decb9a3952
+Path URL: /api/pets/f03b30f8-4bef-4290-bb1a-32decb9a3952
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:44.153340
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:44.153340
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: da664de0-f40b-4d33-b00f-77245ff4d0d4
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:44 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/da664de0-f40b-4d33-b00f-77245ff4d0d4
+Path URL: /api/pets/da664de0-f40b-4d33-b00f-77245ff4d0d4
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:44.417279
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:44.417279
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: 8ef81c55-6828-4f3d-a273-c62027fd7b70
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:45 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/8ef81c55-6828-4f3d-a273-c62027fd7b70
+Path URL: /api/pets/8ef81c55-6828-4f3d-a273-c62027fd7b70
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:44.678648
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:44.678648
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: 2809fce0-fc3a-4590-8710-4a211d23191a
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:45 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/2809fce0-fc3a-4590-8710-4a211d23191a
+Path URL: /api/pets/2809fce0-fc3a-4590-8710-4a211d23191a
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:44.932783
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:44.932783
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: b2a673d7-cfe3-41f8-89f3-55af8c0b0489
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:45 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/b2a673d7-cfe3-41f8-89f3-55af8c0b0489
+Path URL: /api/pets/b2a673d7-cfe3-41f8-89f3-55af8c0b0489
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:45.192572
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:45.193567
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: cea5c64e-77ba-4609-bf02-9c6953bdd689
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:45 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/cea5c64e-77ba-4609-bf02-9c6953bdd689
+Path URL: /api/pets/cea5c64e-77ba-4609-bf02-9c6953bdd689
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:45.463999
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:45.463999
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: 85fd7c73-b914-47fd-a3ad-5fe81c7cc7d4
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:46 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/85fd7c73-b914-47fd-a3ad-5fe81c7cc7d4
+Path URL: /api/pets/85fd7c73-b914-47fd-a3ad-5fe81c7cc7d4
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:45.727062
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:45.728077
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: 50435c12-7068-417a-8184-0568b3354c95
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:46 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/50435c12-7068-417a-8184-0568b3354c95
+Path URL: /api/pets/50435c12-7068-417a-8184-0568b3354c95
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:45.991207
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:45.992209
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: 11a7ff74-e439-4289-967a-48432c8fb388
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:46 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/11a7ff74-e439-4289-967a-48432c8fb388
+Path URL: /api/pets/11a7ff74-e439-4289-967a-48432c8fb388
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:46.263661
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:46.263661
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: 4538cd03-ba21-478e-904d-15ef323cf408
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:46 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/4538cd03-ba21-478e-904d-15ef323cf408
+Path URL: /api/pets/4538cd03-ba21-478e-904d-15ef323cf408
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:46.521759
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:46.521759
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: 1b2719e2-d3d1-41bc-bb75-948e561b097b
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:47 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/1b2719e2-d3d1-41bc-bb75-948e561b097b
+Path URL: /api/pets/1b2719e2-d3d1-41bc-bb75-948e561b097b
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:46.801869
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:46.802864
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: e8572e3d-fc0b-462c-869d-dc5489e91423
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:47 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/e8572e3d-fc0b-462c-869d-dc5489e91423
+Path URL: /api/pets/e8572e3d-fc0b-462c-869d-dc5489e91423
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:47.071651
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:47.071651
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: 2513d9f8-4af3-4473-aef4-fcde27e7fccc
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:47 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/2513d9f8-4af3-4473-aef4-fcde27e7fccc
+Path URL: /api/pets/2513d9f8-4af3-4473-aef4-fcde27e7fccc
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:47.340549
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:47.340549
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: 438a06f0-8f87-4ec0-8fde-dc0ba2fed057
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:47 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/438a06f0-8f87-4ec0-8fde-dc0ba2fed057
+Path URL: /api/pets/438a06f0-8f87-4ec0-8fde-dc0ba2fed057
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:47.604993
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:47.604993
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: 74a9f098-8a6c-468f-bcd7-bdbcc6370eee
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:48 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/74a9f098-8a6c-468f-bcd7-bdbcc6370eee
+Path URL: /api/pets/74a9f098-8a6c-468f-bcd7-bdbcc6370eee
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:47.872013
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:47.872013
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: eeac9068-80b2-413b-b918-76be150d68ce
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:48 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/eeac9068-80b2-413b-b918-76be150d68ce
+Path URL: /api/pets/eeac9068-80b2-413b-b918-76be150d68ce
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:48.138899
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:48.138899
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: a84e2751-e422-4a2b-bb0c-5e047cbb2987
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:48 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/a84e2751-e422-4a2b-bb0c-5e047cbb2987
+Path URL: /api/pets/a84e2751-e422-4a2b-bb0c-5e047cbb2987
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:48.410181
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:48.410181
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: 0e8c0486-16ae-4dcc-96a3-9dac76c01e6a
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:49 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/0e8c0486-16ae-4dcc-96a3-9dac76c01e6a
+Path URL: /api/pets/0e8c0486-16ae-4dcc-96a3-9dac76c01e6a
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:48.660834
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:48.661859
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: e7e1b887-f277-4eb7-bb20-202ee602ab00
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:49 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/e7e1b887-f277-4eb7-bb20-202ee602ab00
+Path URL: /api/pets/e7e1b887-f277-4eb7-bb20-202ee602ab00
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:48.925852
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:48.925852
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: 436d8651-0a13-4afd-a516-dc76ea664e06
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:49 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/436d8651-0a13-4afd-a516-dc76ea664e06
+Path URL: /api/pets/436d8651-0a13-4afd-a516-dc76ea664e06
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:49.184599
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:49.185513
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: 79266f00-f01e-4814-a4c6-1b7a5053a9c5
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:49 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/79266f00-f01e-4814-a4c6-1b7a5053a9c5
+Path URL: /api/pets/79266f00-f01e-4814-a4c6-1b7a5053a9c5
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:49.468190
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:49.468190
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: 54cef150-ab61-4340-8334-da9d2adb85db
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:50 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/54cef150-ab61-4340-8334-da9d2adb85db
+Path URL: /api/pets/54cef150-ab61-4340-8334-da9d2adb85db
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:49.733239
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:49.733239
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: baa43934-b989-4d42-96d2-39df6c6faeb2
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:50 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/baa43934-b989-4d42-96d2-39df6c6faeb2
+Path URL: /api/pets/baa43934-b989-4d42-96d2-39df6c6faeb2
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:49.996111
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:49.997120
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: 537dbee0-862d-4798-a362-3ab8d5513ad8
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:50 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/537dbee0-862d-4798-a362-3ab8d5513ad8
+Path URL: /api/pets/537dbee0-862d-4798-a362-3ab8d5513ad8
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:50.267919
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:50.267919
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: 9d89fcb0-ab20-4bce-be1e-a61cabfc7ee2
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:50 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/9d89fcb0-ab20-4bce-be1e-a61cabfc7ee2
+Path URL: /api/pets/9d89fcb0-ab20-4bce-be1e-a61cabfc7ee2
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:50.567923
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:50.567923
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: b05f1761-7e9e-42ec-ba04-4aa529a93773
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:51 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/b05f1761-7e9e-42ec-ba04-4aa529a93773
+Path URL: /api/pets/b05f1761-7e9e-42ec-ba04-4aa529a93773
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:50.814361
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:50.814361
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: b1d298f6-de80-4407-9780-c6b4f0437e3c
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:51 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/b1d298f6-de80-4407-9780-c6b4f0437e3c
+Path URL: /api/pets/b1d298f6-de80-4407-9780-c6b4f0437e3c
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:51.075729
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:51.076804
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: ce216d0b-3f59-4e30-9386-936665628999
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:51 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/ce216d0b-3f59-4e30-9386-936665628999
+Path URL: /api/pets/ce216d0b-3f59-4e30-9386-936665628999
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:51.360125
+==========================================================
+Response status: 200
+Response body:
+""
+Name Func: delete_pet
+Start time: 2023-01-12 01:50:51.361123
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: 65608253-47bf-46c0-815c-71df2cd3624c
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '0', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 11 Jan 2023 18:50:52 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '0'}
+URL: https://petfriends.skillfactory.ru/api/pets/65608253-47bf-46c0-815c-71df2cd3624c
+Path URL: /api/pets/65608253-47bf-46c0-815c-71df2cd3624c
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:50:51.623606
+==========================================================
+Response status: 200
+Response body:
+""

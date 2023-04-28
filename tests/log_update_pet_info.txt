@@ -1,0 +1,577 @@
+
+Name Func: update_pet_info
+Start time: 2023-01-12 01:49:51.395752
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'accept': 'text/html, charset=utf-8'}
+Path parametrs: 19dccd69-56b4-4d99-b34b-6b7d3f6f1551
+Query parametrs: <class 'filter'>
+Query body: name=Barboskin&age=5&animal_type=dog
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '212', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:49:52 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'accept': 'text/html, charset=utf-8', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '36', 'Content-Type': 'application/x-www-form-urlencoded'}
+URL: https://petfriends.skillfactory.ru/api/pets/19dccd69-56b4-4d99-b34b-6b7d3f6f1551
+Path URL: /api/pets/19dccd69-56b4-4d99-b34b-6b7d3f6f1551
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:49:51.683715
+==========================================================
+Response status: 200
+Response body:
+{
+    "age": "5",
+    "animal_type": "dog",
+    "created_at": "1673462937.505137",
+    "id": "19dccd69-56b4-4d99-b34b-6b7d3f6f1551",
+    "name": "Barboskin",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: update_pet_info
+Start time: 2023-01-12 01:49:52.301431
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'accept': 'multipart/form-data'}
+Path parametrs: 19dccd69-56b4-4d99-b34b-6b7d3f6f1551
+Query parametrs: <class 'filter'>
+Query body: name=Barboskin&age=5&animal_type=dog
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '212', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:49:52 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'accept': 'multipart/form-data', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '36', 'Content-Type': 'application/x-www-form-urlencoded'}
+URL: https://petfriends.skillfactory.ru/api/pets/19dccd69-56b4-4d99-b34b-6b7d3f6f1551
+Path URL: /api/pets/19dccd69-56b4-4d99-b34b-6b7d3f6f1551
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:49:52.572285
+==========================================================
+Response status: 200
+Response body:
+{
+    "age": "5",
+    "animal_type": "dog",
+    "created_at": "1673462937.505137",
+    "id": "19dccd69-56b4-4d99-b34b-6b7d3f6f1551",
+    "name": "Barboskin",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: update_pet_info
+Start time: 2023-01-12 01:49:53.187684
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'accept': 'application/xml'}
+Path parametrs: 19dccd69-56b4-4d99-b34b-6b7d3f6f1551
+Query parametrs: <class 'filter'>
+Query body: name=Barboskin&age=5&animal_type=dog
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '212', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:49:53 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'accept': 'application/xml', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '36', 'Content-Type': 'application/x-www-form-urlencoded'}
+URL: https://petfriends.skillfactory.ru/api/pets/19dccd69-56b4-4d99-b34b-6b7d3f6f1551
+Path URL: /api/pets/19dccd69-56b4-4d99-b34b-6b7d3f6f1551
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:49:53.470070
+==========================================================
+Response status: 200
+Response body:
+{
+    "age": "5",
+    "animal_type": "dog",
+    "created_at": "1673462937.505137",
+    "id": "19dccd69-56b4-4d99-b34b-6b7d3f6f1551",
+    "name": "Barboskin",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: update_pet_info
+Start time: 2023-01-12 01:49:54.096389
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'accept': 'application/json'}
+Path parametrs: 19dccd69-56b4-4d99-b34b-6b7d3f6f1551
+Query parametrs: <class 'filter'>
+Query body: name=Barboskin&age=5&animal_type=dog
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '212', 'Content-Type': 'application/json', 'Date': 'Wed, 11 Jan 2023 18:49:54 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'accept': 'application/json', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '36', 'Content-Type': 'application/x-www-form-urlencoded'}
+URL: https://petfriends.skillfactory.ru/api/pets/19dccd69-56b4-4d99-b34b-6b7d3f6f1551
+Path URL: /api/pets/19dccd69-56b4-4d99-b34b-6b7d3f6f1551
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-12 01:49:54.360500
+==========================================================
+Response status: 200
+Response body:
+{
+    "age": "5",
+    "animal_type": "dog",
+    "created_at": "1673462937.505137",
+    "id": "19dccd69-56b4-4d99-b34b-6b7d3f6f1551",
+    "name": "Barboskin",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: update_pet_info
+Start time: 2023-01-16 00:30:16.066880
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'content-type': 'text/html, charset=utf-8'}
+Path parametrs: 5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Query parametrs: <class 'filter'>
+Query body: name=Barboskin&age=5&animal_type=dog
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '290', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Sun, 15 Jan 2023 17:30:16 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'content-type': 'text/html, charset=utf-8', 'Content-Length': '36'}
+URL: https://petfriends.skillfactory.ru/api/pets/5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Path URL: /api/pets/5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-16 00:30:16.307164
+==========================================================
+Response status: 500
+Response body:
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 3.2 Final//EN\">\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+Name Func: update_pet_info
+Start time: 2023-01-16 00:30:17.019018
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'content-type': 'multipart/form-data'}
+Path parametrs: 5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Query parametrs: <class 'filter'>
+Query body: name=Barboskin&age=5&animal_type=dog
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '212', 'Content-Type': 'application/json', 'Date': 'Sun, 15 Jan 2023 17:30:17 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'content-type': 'multipart/form-data', 'Content-Length': '36'}
+URL: https://petfriends.skillfactory.ru/api/pets/5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Path URL: /api/pets/5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-16 00:30:17.300848
+==========================================================
+Response status: 200
+Response body:
+{
+    "age": "None",
+    "animal_type": "None",
+    "created_at": "1673803780.9153218",
+    "id": "5d85cf93-1a5d-468b-b3d5-1ca7f29803bf",
+    "name": "None",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: update_pet_info
+Start time: 2023-01-16 00:30:17.974118
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'content-type': 'application/xml'}
+Path parametrs: 5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Query parametrs: <class 'filter'>
+Query body: name=Barboskin&age=5&animal_type=dog
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '290', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Sun, 15 Jan 2023 17:30:17 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'content-type': 'application/xml', 'Content-Length': '36'}
+URL: https://petfriends.skillfactory.ru/api/pets/5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Path URL: /api/pets/5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-16 00:30:18.222932
+==========================================================
+Response status: 500
+Response body:
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 3.2 Final//EN\">\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+Name Func: update_pet_info
+Start time: 2023-01-16 00:30:18.809802
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'content-type': 'application/json'}
+Path parametrs: 5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Query parametrs: <class 'filter'>
+Query body: name=Barboskin&age=5&animal_type=dog
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '290', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Sun, 15 Jan 2023 17:30:18 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'content-type': 'application/json', 'Content-Length': '36'}
+URL: https://petfriends.skillfactory.ru/api/pets/5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Path URL: /api/pets/5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-16 00:30:19.026392
+==========================================================
+Response status: 500
+Response body:
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 3.2 Final//EN\">\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+Name Func: update_pet_info
+Start time: 2023-01-16 00:37:41.356226
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: 5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Query parametrs: <class 'filter'>
+Query body: name=Barboskin&age=5&animal_type=dog
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '213', 'Content-Type': 'application/json', 'Date': 'Sun, 15 Jan 2023 17:37:41 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '36', 'Content-Type': 'application/x-www-form-urlencoded'}
+URL: https://petfriends.skillfactory.ru/api/pets/5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Path URL: /api/pets/5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-16 00:37:41.648518
+==========================================================
+Response status: 200
+Response body:
+{
+    "age": "5",
+    "animal_type": "dog",
+    "created_at": "1673803780.9153218",
+    "id": "5d85cf93-1a5d-468b-b3d5-1ca7f29803bf",
+    "name": "Barboskin",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: update_pet_info
+Start time: 2023-01-16 00:37:42.282561
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: 5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Query parametrs: <class 'filter'>
+Query body: name=Barboskin&age=5&animal_type=dog
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '213', 'Content-Type': 'application/json', 'Date': 'Sun, 15 Jan 2023 17:37:42 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '36', 'Content-Type': 'application/x-www-form-urlencoded'}
+URL: https://petfriends.skillfactory.ru/api/pets/5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Path URL: /api/pets/5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-16 00:37:42.572622
+==========================================================
+Response status: 200
+Response body:
+{
+    "age": "5",
+    "animal_type": "dog",
+    "created_at": "1673803780.9153218",
+    "id": "5d85cf93-1a5d-468b-b3d5-1ca7f29803bf",
+    "name": "Barboskin",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: update_pet_info
+Start time: 2023-01-16 00:37:43.152570
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: 5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Query parametrs: <class 'filter'>
+Query body: name=Barboskin&age=5&animal_type=dog
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '213', 'Content-Type': 'application/json', 'Date': 'Sun, 15 Jan 2023 17:37:43 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '36', 'Content-Type': 'application/x-www-form-urlencoded'}
+URL: https://petfriends.skillfactory.ru/api/pets/5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Path URL: /api/pets/5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-16 00:37:43.442393
+==========================================================
+Response status: 200
+Response body:
+{
+    "age": "5",
+    "animal_type": "dog",
+    "created_at": "1673803780.9153218",
+    "id": "5d85cf93-1a5d-468b-b3d5-1ca7f29803bf",
+    "name": "Barboskin",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: update_pet_info
+Start time: 2023-01-16 00:37:44.041103
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d'}
+Path parametrs: 5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Query parametrs: <class 'filter'>
+Query body: name=Barboskin&age=5&animal_type=dog
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '213', 'Content-Type': 'application/json', 'Date': 'Sun, 15 Jan 2023 17:37:44 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '36', 'Content-Type': 'application/x-www-form-urlencoded'}
+URL: https://petfriends.skillfactory.ru/api/pets/5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Path URL: /api/pets/5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-16 00:37:44.343011
+==========================================================
+Response status: 200
+Response body:
+{
+    "age": "5",
+    "animal_type": "dog",
+    "created_at": "1673803780.9153218",
+    "id": "5d85cf93-1a5d-468b-b3d5-1ca7f29803bf",
+    "name": "Barboskin",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: update_pet_info
+Start time: 2023-01-16 00:42:02.427232
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'text/html, charset=utf-8'}
+Path parametrs: 5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Query parametrs: <class 'filter'>
+Query body: name=Barboskin&age=5&animal_type=dog
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '290', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Sun, 15 Jan 2023 17:42:02 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'text/html, charset=utf-8', 'Content-Length': '36'}
+URL: https://petfriends.skillfactory.ru/api/pets/5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Path URL: /api/pets/5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-16 00:42:02.642091
+==========================================================
+Response status: 500
+Response body:
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 3.2 Final//EN\">\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+Name Func: update_pet_info
+Start time: 2023-01-16 00:42:03.275066
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data'}
+Path parametrs: 5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Query parametrs: <class 'filter'>
+Query body: name=Barboskin&age=5&animal_type=dog
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '212', 'Content-Type': 'application/json', 'Date': 'Sun, 15 Jan 2023 17:42:03 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data', 'Content-Length': '36'}
+URL: https://petfriends.skillfactory.ru/api/pets/5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Path URL: /api/pets/5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-16 00:42:03.551930
+==========================================================
+Response status: 200
+Response body:
+{
+    "age": "None",
+    "animal_type": "None",
+    "created_at": "1673803780.9153218",
+    "id": "5d85cf93-1a5d-468b-b3d5-1ca7f29803bf",
+    "name": "None",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: update_pet_info
+Start time: 2023-01-16 00:42:04.137266
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'application/xml'}
+Path parametrs: 5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Query parametrs: <class 'filter'>
+Query body: name=Barboskin&age=5&animal_type=dog
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '290', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Sun, 15 Jan 2023 17:42:04 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'application/xml', 'Content-Length': '36'}
+URL: https://petfriends.skillfactory.ru/api/pets/5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Path URL: /api/pets/5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-16 00:42:04.367035
+==========================================================
+Response status: 500
+Response body:
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 3.2 Final//EN\">\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+Name Func: update_pet_info
+Start time: 2023-01-16 00:42:04.955757
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'application/json'}
+Path parametrs: 5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Query parametrs: <class 'filter'>
+Query body: name=Barboskin&age=5&animal_type=dog
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '290', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Sun, 15 Jan 2023 17:42:04 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'application/json', 'Content-Length': '36'}
+URL: https://petfriends.skillfactory.ru/api/pets/5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Path URL: /api/pets/5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-16 00:42:05.169770
+==========================================================
+Response status: 500
+Response body:
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 3.2 Final//EN\">\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+Name Func: update_pet_info
+Start time: 2023-01-16 00:43:35.173690
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'text/html, charset=utf-8'}
+Path parametrs: 5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Query parametrs: <class 'filter'>
+Query body: name=Barboskin&age=5&animal_type=dog
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '290', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Sun, 15 Jan 2023 17:43:35 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'text/html, charset=utf-8', 'Content-Length': '36'}
+URL: https://petfriends.skillfactory.ru/api/pets/5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Path URL: /api/pets/5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-16 00:43:35.389342
+==========================================================
+Response status: 500
+Response body:
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 3.2 Final//EN\">\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+Name Func: update_pet_info
+Start time: 2023-01-16 00:43:36.006844
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data'}
+Path parametrs: 5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Query parametrs: <class 'filter'>
+Query body: name=Barboskin&age=5&animal_type=dog
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '212', 'Content-Type': 'application/json', 'Date': 'Sun, 15 Jan 2023 17:43:35 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data', 'Content-Length': '36'}
+URL: https://petfriends.skillfactory.ru/api/pets/5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Path URL: /api/pets/5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-16 00:43:36.281019
+==========================================================
+Response status: 200
+Response body:
+{
+    "age": "None",
+    "animal_type": "None",
+    "created_at": "1673803780.9153218",
+    "id": "5d85cf93-1a5d-468b-b3d5-1ca7f29803bf",
+    "name": "None",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: update_pet_info
+Start time: 2023-01-16 00:43:36.870136
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'application/xml'}
+Path parametrs: 5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Query parametrs: <class 'filter'>
+Query body: name=Barboskin&age=5&animal_type=dog
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '290', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Sun, 15 Jan 2023 17:43:36 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'application/xml', 'Content-Length': '36'}
+URL: https://petfriends.skillfactory.ru/api/pets/5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Path URL: /api/pets/5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-16 00:43:37.086407
+==========================================================
+Response status: 500
+Response body:
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 3.2 Final//EN\">\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+Name Func: update_pet_info
+Start time: 2023-01-16 00:43:37.671336
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'application/json'}
+Path parametrs: 5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Query parametrs: <class 'filter'>
+Query body: name=Barboskin&age=5&animal_type=dog
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '290', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Sun, 15 Jan 2023 17:43:37 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'application/json', 'Content-Length': '36'}
+URL: https://petfriends.skillfactory.ru/api/pets/5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Path URL: /api/pets/5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-16 00:43:37.894290
+==========================================================
+Response status: 500
+Response body:
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 3.2 Final//EN\">\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+Name Func: update_pet_info
+Start time: 2023-01-16 00:45:06.818739
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'text/html, charset=utf-8'}
+Path parametrs: 5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Query parametrs: <class 'filter'>
+Query body: name=Barboskin&age=5&animal_type=dog
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '290', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Sun, 15 Jan 2023 17:45:06 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'text/html, charset=utf-8', 'Content-Length': '36'}
+URL: https://petfriends.skillfactory.ru/api/pets/5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Path URL: /api/pets/5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-16 00:45:07.040476
+==========================================================
+Response status: 500
+Response body:
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 3.2 Final//EN\">\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+Name Func: update_pet_info
+Start time: 2023-01-16 00:45:07.690191
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data'}
+Path parametrs: 5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Query parametrs: <class 'filter'>
+Query body: name=Barboskin&age=5&animal_type=dog
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '212', 'Content-Type': 'application/json', 'Date': 'Sun, 15 Jan 2023 17:45:07 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'multipart/form-data', 'Content-Length': '36'}
+URL: https://petfriends.skillfactory.ru/api/pets/5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Path URL: /api/pets/5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-16 00:45:07.963504
+==========================================================
+Response status: 200
+Response body:
+{
+    "age": "None",
+    "animal_type": "None",
+    "created_at": "1673803780.9153218",
+    "id": "5d85cf93-1a5d-468b-b3d5-1ca7f29803bf",
+    "name": "None",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: update_pet_info
+Start time: 2023-01-16 00:45:08.521619
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'application/xml'}
+Path parametrs: 5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Query parametrs: <class 'filter'>
+Query body: name=Barboskin&age=5&animal_type=dog
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '290', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Sun, 15 Jan 2023 17:45:08 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'application/xml', 'Content-Length': '36'}
+URL: https://petfriends.skillfactory.ru/api/pets/5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Path URL: /api/pets/5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-16 00:45:08.736675
+==========================================================
+Response status: 500
+Response body:
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 3.2 Final//EN\">\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+Name Func: update_pet_info
+Start time: 2023-01-16 00:45:09.298919
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'application/json'}
+Path parametrs: 5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Query parametrs: <class 'filter'>
+Query body: name=Barboskin&age=5&animal_type=dog
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '290', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Sun, 15 Jan 2023 17:45:09 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Type': 'application/json', 'Content-Length': '36'}
+URL: https://petfriends.skillfactory.ru/api/pets/5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Path URL: /api/pets/5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-16 00:45:09.523625
+==========================================================
+Response status: 500
+Response body:
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 3.2 Final//EN\">\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+Name Func: update_pet_info
+Start time: 2023-01-16 00:47:03.615263
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'accept': 'text/html, charset=utf-8'}
+Path parametrs: 5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Query parametrs: <class 'filter'>
+Query body: name=Barboskin&age=5&animal_type=dog
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '213', 'Content-Type': 'application/json', 'Date': 'Sun, 15 Jan 2023 17:47:03 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'accept': 'text/html, charset=utf-8', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '36', 'Content-Type': 'application/x-www-form-urlencoded'}
+URL: https://petfriends.skillfactory.ru/api/pets/5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Path URL: /api/pets/5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-16 00:47:03.919887
+==========================================================
+Response status: 200
+Response body:
+{
+    "age": "5",
+    "animal_type": "dog",
+    "created_at": "1673803780.9153218",
+    "id": "5d85cf93-1a5d-468b-b3d5-1ca7f29803bf",
+    "name": "Barboskin",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: update_pet_info
+Start time: 2023-01-16 00:47:04.486080
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'accept': 'multipart/form-data'}
+Path parametrs: 5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Query parametrs: <class 'filter'>
+Query body: name=Barboskin&age=5&animal_type=dog
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '213', 'Content-Type': 'application/json', 'Date': 'Sun, 15 Jan 2023 17:47:04 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'accept': 'multipart/form-data', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '36', 'Content-Type': 'application/x-www-form-urlencoded'}
+URL: https://petfriends.skillfactory.ru/api/pets/5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Path URL: /api/pets/5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-16 00:47:04.774788
+==========================================================
+Response status: 200
+Response body:
+{
+    "age": "5",
+    "animal_type": "dog",
+    "created_at": "1673803780.9153218",
+    "id": "5d85cf93-1a5d-468b-b3d5-1ca7f29803bf",
+    "name": "Barboskin",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: update_pet_info
+Start time: 2023-01-16 00:47:05.341210
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'accept': 'application/xml'}
+Path parametrs: 5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Query parametrs: <class 'filter'>
+Query body: name=Barboskin&age=5&animal_type=dog
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '213', 'Content-Type': 'application/json', 'Date': 'Sun, 15 Jan 2023 17:47:05 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'accept': 'application/xml', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '36', 'Content-Type': 'application/x-www-form-urlencoded'}
+URL: https://petfriends.skillfactory.ru/api/pets/5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Path URL: /api/pets/5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-16 00:47:05.659550
+==========================================================
+Response status: 200
+Response body:
+{
+    "age": "5",
+    "animal_type": "dog",
+    "created_at": "1673803780.9153218",
+    "id": "5d85cf93-1a5d-468b-b3d5-1ca7f29803bf",
+    "name": "Barboskin",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
+Name Func: update_pet_info
+Start time: 2023-01-16 00:47:06.235930
+Headers of query: {'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'accept': 'application/json'}
+Path parametrs: 5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Query parametrs: <class 'filter'>
+Query body: name=Barboskin&age=5&animal_type=dog
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '213', 'Content-Type': 'application/json', 'Date': 'Sun, 15 Jan 2023 17:47:06 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'accept': 'application/json', 'Connection': 'keep-alive', 'auth_key': '1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d', 'Content-Length': '36', 'Content-Type': 'application/x-www-form-urlencoded'}
+URL: https://petfriends.skillfactory.ru/api/pets/5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Path URL: /api/pets/5d85cf93-1a5d-468b-b3d5-1ca7f29803bf
+Cookie: <RequestsCookieJar[]>
+End time: 2023-01-16 00:47:06.522287
+==========================================================
+Response status: 200
+Response body:
+{
+    "age": "5",
+    "animal_type": "dog",
+    "created_at": "1673803780.9153218",
+    "id": "5d85cf93-1a5d-468b-b3d5-1ca7f29803bf",
+    "name": "Barboskin",
+    "pet_photo": "",
+    "user_id": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
