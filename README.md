@@ -12,3 +12,10 @@ pip install -r requirements.txt
 python -m pytest -v --driver Chrome --driver-path ~/chrome tests/*
 Пример:
 python -m pytest -v --driver Chrome --driver-path D:/chromedriver_win32/chromedriver.exe tests/test_get_all_pets_positive.py
+
+☝️ Пароли спрятаны в файл .env (не выложен здесь).
+Создать в директории проекта файл .env, в него записать 
+valid_email = "ваша учетная запись"
+valid_password = "ваш пароль"
+invalid_email = "хххх"
+invalid_password = "qwerty"
