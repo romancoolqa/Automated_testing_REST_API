@@ -6,11 +6,12 @@
 1) Установить все зависимости:
 В командной строке терминала (bash) набрать и выполнить: 
 pip install -r requirements.txt
-2) Запуск тестов:
-python -m pytest -v --driver Chrome --driver-path ~/chrome tests/*
-<br>Пример:
-python -m pytest -v --driver Chrome --driver-path D:/chromedriver_win32/chromedriver.exe tests/test_get_all_pets_positive.py
+2) Запуск тестов:<br>
+```python -m pytest -v --driver Chrome --driver-path ~/chrome tests/*```
+<br>Пример:<br>
+```python -m pytest -v --driver Chrome --driver-path D:/chromedriver_win32/chromedriver.exe tests/test_get_all_pets_positive.py```
 
+---
 ☝️ Пароли спрятаны в файл .env (не выложен здесь). Создать в директории проекта файл .env, в него записать:  
 ```
 valid_email = "ваша учетная запись"
